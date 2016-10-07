@@ -8,7 +8,7 @@ The distributed operation layer (DOL) is a software development framework to pro
 
 
 ##How to install
- ###1.安装必要的开发环境
+###1.安装必要的开发环境
  * $    sudo apt-get update
  * $    sudo apt-get install ant
  * $     sudo apt-get install openjdk-7-jdk
@@ -74,5 +74,4 @@ The distributed operation layer (DOL) is a software development framework to pro
 * 2.在一开始的命令中输入sudo gedit 总是会有权限问题发生error，修改文件会有产生问题，好像是要用到gksudo才可以解决，因为后面直接用了ta配好的ubuntu所以就没有尝试
 * 3.上课TA讲到的git和github听的一头雾水，但其实看了廖雪峰老师的教程网站后清晰很多，基本没有难点，但重要的是要清楚了解网站上关于git仓库工作区暂存区和master这些的概念和仓库的工作流程。
 * 4.关于markdown语言，百度了markdown并用了一个网页版本的编辑器进行编写，感觉类似于html并且更加简洁易懂的语言，排版字体等都容易上手。图形的url，利用跟html类似的原理，我是讲图片统一放在我的github仓库中，在github哪里打开我的图片生成图片的url，这样就可以显示出图片了。
-* 
 
