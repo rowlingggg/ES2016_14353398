@@ -40,6 +40,7 @@
 ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_1.png)
 
 5.example1的dot图
+
 ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_2.png)
 
 
