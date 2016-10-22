@@ -17,11 +17,12 @@
 
 #####example1
 1. 分析example1的square代码
- * ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/example1_1.png)
+ * ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/example1_1.png)
 
 2. 以及example1的xml代码
- * ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/example1_2.png)
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/example1_3.png)
+ * ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/example1_2.png)
+ * ![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/example1_3.png)
+ 
 3. 修改square中的关键代码，使其输出为立方数
  * 在square的fire函数中进行修改
 
@@ -37,11 +38,11 @@
 
 4.输出结果 
 
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_1.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/lab3_1.png)
 
 5.example1的dot图
 
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_2.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/lab3_2.png)
 
 
 
@@ -50,20 +51,20 @@
 
 1. example运行结果图以及修改之前的dot图
 
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_3.png)
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_4.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/lab3_3.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/lab3_4.png)
 
 2.xml分析
 
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/exampl2_1.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/exampl2_1.png)
 
 3.修改xml文件，明白iterator的作用,iterator其实就是一个循环的square模块，一个模块中的运算为i*i，两个模块为i的四次方，三个模块则是i的四次方的平方，也就是i的8次方，一个递归的效果，iterator个数取决于variable的取值范围，variable取值范围取决于values的值。
 
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/exampl2_2.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/exampl2_2.png)
 
 4.修改之后的dot图
 
-![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/lab3_5.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/assignment/pic_lab3/lab3_5.png)
 
 
 

@@ -1,7 +1,7 @@
 
 ##Description
 The distributed operation layer (DOL) is a software development framework to program parallel applications. The DOL allows to specify applications based on the Kahn process network model of computation and features a simulation engine based on SystemC. Moreover, the DOL provides an XML-based specification format to describe the implementation of a parallel application on a multi-processor systems, including binding and mapping.
-![mahua](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic1.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic/pic1.png)
 
 
 
@@ -36,19 +36,19 @@ The distributed operation layer (DOL) is a software development framework to pro
  * $	../configure CXX=g++ --disable-async-updates
 
 
-![mahua](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic2.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic/pic2.png)
 
  * 编译
  * $    sudo make install
  * 编译完后文件目录如下($ cd ..        $ ls
  * 实验截图：
-![mahua](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic3.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic/pic3.png)
 
  * 记录当前的工作路径(会输出当前所在路径，记下来，待会有用)
  * $    pwd
  * 实验截图：
  *
-![mahua](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic4.png)
+![](https://raw.githubusercontent.com/rowlingggg/ES2016_14353398/master/pic/pic4.png)
 
  * 进入刚刚dol的文件夹
  * $    cd ../dol
